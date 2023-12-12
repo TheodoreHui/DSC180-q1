@@ -7,7 +7,7 @@ This project focuses on utilizing Natural Language Processing (NLP) techniques, 
 https://aclanthology.org/2020.acl-main.30/
 
 ### Accessing Data
-Training data that was used in the original project is accessesible in this repo. Assuming the file structure remains unchanged, the test scripts should be pathed toward them already.
+Training data that was used in the original project is accessesible in this repo. Assuming the file structure remains unchanged, the test scripts should be pathed toward them already. However, new data can be used, given they following the formatting requirements in the documentation.
 
 ### Dependencies
 All necessary libraries should be in the requirements.txt, which can be executed via:
