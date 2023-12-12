@@ -1,8 +1,8 @@
-# ConWea Replication Project
+# ConWea Baseline Replication Project
 
 ## Overview
 
-This project focuses on utilizing Natural Language Processing (NLP) techniques, specifically TF-IDF and Word2Vec, to classify documents into relevant categories as a replication of the baselines of "Contextualized Weak Supervision for Text Classification"
+This project focuses on utilizing Natural Language Processing (NLP) techniques, specifically TF-IDF and Word2Vec, to classify documents into relevant categories as a replication of the baselines of "Contextualized Weak Supervision for Text Classification" (Dheeraj Mekala, Jingbo Shang)
 
 https://aclanthology.org/2020.acl-main.30/
 
